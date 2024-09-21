@@ -1,4 +1,5 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :blue_heart:
+Me chamo :Lara Beatriz:
 Estou estudando na alura
 Estu me desenvolvendo no Java script 
 <!--
