@@ -1,5 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
-
+Estou estudando na alura
+Estu me desenvolvendo no Java script 
 <!--
 **Lara-Beatriz/Lara-Beatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
